@@ -1,0 +1,6 @@
+{
+  "Name": "ia1",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "naturalnumberseries.xaml"
+}
